@@ -21,3 +21,4 @@ Este comando nos muestra el historial en una sola línea por commit.
 Este comando nos muestra el historial en una sola línea por commit en grafico.
 
 `git log --oneline --graph`
+este comando os muestra
