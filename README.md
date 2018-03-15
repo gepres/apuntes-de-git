@@ -17,3 +17,5 @@ git config --global user.email johndoe@example.com
 git config --global core.editor code
 git config --list
 ```
+
+esta linea fue creada en la rama master.
